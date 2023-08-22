@@ -6,7 +6,7 @@ We have developed the program `Discord Sidonia` to track mentions of certain wor
 We are aware that combating disinformation is a difficult task, but our program is designed to help communities in their efforts to ensure the security and reliability of information. We hope that `Discord Sidonia` will become a useful tool in countering the spread of misinformation and will help create a healthy and reliable online environment for our users.
 
 ## Other languages
-- [EN](README.md), [JA](README.ja.md), [ES](README.es.md), [RU](README.ru.md)
+- [EN](README.md), [JA](README.ja.md), [ES](README.es.md), [ZH](README.zh.md), [RU](README.ru.md)
 
 ## Installation
 1. Download the current version from the "releases" category
