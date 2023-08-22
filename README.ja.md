@@ -6,7 +6,7 @@
 私たちは、偽情報との闘いは困難な作業であることを認識していますが、私たちのプログラムは、情報のセキュリティと信頼性を確保するためのコミ `Discord Sidonia` が誤報の拡散に対抗するための有用なツールになり、ユーザーにとって健康で信頼できるオンライン環境を作成するのに役立つことを願っています。
 
 ## .その他の言語
-- [EN](README.md), [JA](README.ja.md), [ES](README.es.md), [RU](README.ru.md)
+- [EN](README.md), [JA](README.ja.md), [ES](README.es.md), [ZH](README.zh.md), [RU](README.ru.md)
 
 ## .インストール
 1. 「リリース」カテゴリから現在のバージョンをダウンロードします
