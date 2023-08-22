@@ -1,4 +1,10 @@
 # Discord Sidonia 
+El problema de la difusión de información errónea por parte de intrusos en Internet es cada vez más grave y afecta a la opinión pública, influye excesivamente en nuestra elección y puede tener consecuencias incontrolables. Los atacantes publican deliberadamente información incorrecta, falsifican hechos y crean enlaces a fuentes dudosas para manipular la información y causar daños al servidor de la víctima.
+
+Hemos desarrollado el programa `Discord Sidonia` para rastrear menciones de ciertas palabras y enlaces con el fin de detectar posibles intrusos que difunden información errónea en la comunidad de Discord. El código de este programa le permite monitorear mensajes y detectar menciones de palabras que pueden estar asociadas con información errónea o enlaces sospechosos. Esto permitirá a los administradores de la comunidad tomar medidas para prevenir la difusión de información falsa y castigar a los responsables.
+
+Somos conscientes de que combatir la desinformación es una tarea difícil, pero nuestro programa está diseñado para ayudar a las comunidades en sus esfuerzos por garantizar la seguridad y confiabilidad de la información. Esperamos que `Discord Sidonia` se convierta en una herramienta útil para contrarrestar la propagación de información errónea y ayude a crear un entorno en línea saludable y confiable para nuestros usuarios.
+
 ## Otros idiomas
 - [EN](README.md), [JA](README.ja.md), [ES](README.es.md), [RU](README.ru.md)
 
