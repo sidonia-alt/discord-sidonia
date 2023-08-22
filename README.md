@@ -14,7 +14,7 @@ We are aware that combating disinformation is a difficult task, but our program 
 ## Usage
 1. Run the `Discord Sidonia(.exe/.deb)` script.
 2. Set up keywords for mentions, as well as the notification method.
-3. Enter your token in menu item #2.
+3. Enter your token in menu item #2. (you can see [docs](/docs/get-token.md))
 4. Run the program.
 
 ## Usage the source code
