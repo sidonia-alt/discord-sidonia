@@ -1,9 +1,6 @@
 # Discord Sidonia 
 ## Other languages
-- [EN](README.md)
-- [JA](README.ja.md)
-- [ES](README.es.md)
-- [RU](README.ru.md)
+- [EN](README.md), [JA](README.ja.md), [ES](README.es.md), [RU](README.ru.md)
 
 ## Installation
 1. Download the current version from the "releases" category
