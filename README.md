@@ -1,9 +1,9 @@
 # Discord Sidonia 
 The problem of spreading misinformation by intruders on the Internet is becoming more and more serious and affects public opinion, excessively influences our choice and can lead to uncontrollable consequences. Attackers deliberately post incorrect information, falsify facts and create links to dubious sources in order to manipulate information and cause damage to the victim server.
 
-We have developed the program `Discord Sidonia` to track mentions of certain words and links in order to detect possible intruders spreading misinformation in the Discord community. The code of this program allows you to monitor messages and detect mentions of words that may be associated with misinformation or suspicious links. This will allow community administrators to take measures to prevent the spread of false information and punish those responsible.
+We have developed the program "ёDiscord Sidoniaё" to track mentions of certain words and links in order to detect possible attackers spreading misinformation about the victim server in other Discord communities. The code of this program allows you to monitor messages and detect mentions of words that may be associated with misinformation or suspicious links. This will allow community administrators to quickly and effectively take measures to prevent the spread of false information and punish those responsible.
 
-We are aware that combating disinformation is a difficult task, but our program is designed to help communities in their efforts to ensure the security and reliability of information. We hope that `Discord Sidonia` will become a useful tool in countering the spread of misinformation and will help create a healthy and reliable online environment for our users.
+We are aware that combating disinformation is a difficult task, but our program is designed to help communities in their efforts to ensure the security and reliability of information. We hope that "`Discord Sidonia`" will become a useful tool in countering the spread of misinformation and will help create a healthy and reliable online environment for our users.
 
 ## Other languages
 - [EN](README.md), [JA](README.ja.md), [ES](README.es.md), [ZH](README.zh.md), [RU](README.ru.md)
