@@ -12,11 +12,11 @@
 4. Run the program.
 
 ## Usage the source code
-> **_NOTE:_** Currently, there is no support for custom installation, since a public build of the TeraCord library is required, which contradicts ToS Discord
+> **_NOTE:_** Currently, there is no support for custom installation, since a public build of the `TeraCord` library is required, which contradicts `ToS Discord`.
 
 ## Roadmap & Future Developments
 - Create a GUI
 - Project optimization
 
 ## Known Issues
-- In cases of compilation, Windows Defender and some other antivirus applications may report a threat. This may be related to the libraries used to compile the application.
+- In cases of compilation, `Windows Defender` and some other antivirus applications may report a threat. This may be related to the libraries used to compile the application.
