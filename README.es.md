@@ -6,7 +6,7 @@ Hemos desarrollado el programa `Discord Sidonia` para rastrear menciones de cier
 Somos conscientes de que combatir la desinformación es una tarea difícil, pero nuestro programa está diseñado para ayudar a las comunidades en sus esfuerzos por garantizar la seguridad y confiabilidad de la información. Esperamos que `Discord Sidonia` se convierta en una herramienta útil para contrarrestar la propagación de información errónea y ayude a crear un entorno en línea saludable y confiable para nuestros usuarios.
 
 ## Otros idiomas
-- [EN](README.md), [JA](README.ja.md), [ES](README.es.md), [RU](README.ru.md)
+- [EN](README.md), [JA](README.ja.md), [ES](README.es.md), [ZH](README.zh.md), [RU](README.ru.md)
 
 ## Instalación
 1. Descargue la versión actual de la categoría" lanzamientos"
