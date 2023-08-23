@@ -14,6 +14,6 @@ Turning off the Windows Defender will put your computer at risk if you don’t h
 
 5. Switch off the Real-time protection and the Windows Defender will be turned off. 
 
-![]([https://www.technewstoday.com/wp-content/uploads/2022/02/manage-settings.webp](https://www.technewstoday.com/wp-content/uploads/2022/02/real-time-protectionj-off.webp)https://www.technewstoday.com/wp-content/uploads/2022/02/real-time-protectionj-off.webp)
+![](https://www.technewstoday.com/wp-content/uploads/2022/02/real-time-protectionj-off.webp)
 
 But, upon restarting your computer, Windows Defender would start on its own and will continue to protect the computer from any threats. And in the meantime, if any malicious files are detected, they will be quarantined and the users will have the option to either recover them or remove them permanently.
